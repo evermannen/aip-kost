@@ -1,3 +1,11 @@
+title: Antiinflammatorisk kycklingröra med blomkålsris
+slug: antiinflammatorisk-kycklingrora
+protein: Kyklingfärs
+diet: [AIP, keto]
+tags: [gurkmeja, dill, matlada]
+prep_time_minutes: 10
+cook_time_minutes: 15
+servings: 4
 # 🟡 Antiinflammatorisk kycklingröra med blomkålsris
 
 **AIP light • Keto / Low-carb • Vardagsmat & matlåda**

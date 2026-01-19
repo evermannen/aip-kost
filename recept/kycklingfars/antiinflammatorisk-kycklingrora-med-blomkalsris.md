@@ -4,6 +4,8 @@
 
 En enkel, saftig och antiinflammatorisk kycklingröra där **gurkmeja steks i fett först** för bättre upptag av kurkumin. Serveras med blomkålsris och kokta rotfrukter. Ingen sås behövs – men kokosyoghurt fungerar perfekt som valfritt tillbehör.
 
+![Antiinflammatorisk kycklingröra med blomkålsris](1.jpeg)
+
 ---
 
 ## 🛒 Ingredienser
